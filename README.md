@@ -1,5 +1,6 @@
-🎓 
-Em dic Daniel Gallardo i sóc estudiant de segon any del Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes a l’Escola Pia Santa Anna de Mataró.
+👋 Hola, sóc Daniel Gallardo
+
+🎓 Estudiant de segon any del Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes a l’Escola Pia Santa Anna de Mataró.
 Aquest repositori és el meu espai personal on comparteixo projectes, pràctiques i aprenentatges relacionats amb el món de la informàtica. El meu objectiu és aprendre, experimentar i construir una base sòlida per al meu futur professional en el sector tecnològic.
 
 📌 Àrees d’interès
@@ -10,6 +11,11 @@ Aquest repositori és el meu espai personal on comparteixo projectes, pràctique
 
 🔐 Seguretat informàtica: anàlisi de vulnerabilitats, bones pràctiques i pentesting bàsic.
 
-📫
-Si vols contactar amb mi per a col·laboracions, suggeriments o simplement per compartir coneixement, pots escriure’m a:
-✉️ alu.daniel.gallardo@mataro.epiaedu.cat
+🎯 Objectius
+
+Consolidar coneixements tècnics en desenvolupament web i administració de sistemes.
+Aprendre bones pràctiques de seguretat informàtica i aplicacions reals.
+Crear projectes pràctics que reflecteixin les competències adquirides.
+Preparar-me per continuar estudis superiors o incorporar-me al sector tecnològic amb una base sòlida.
+
+📫 Contacte: alu.daniel.gallardo@mataro.epiaedu.cat
