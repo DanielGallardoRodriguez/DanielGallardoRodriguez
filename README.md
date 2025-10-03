@@ -1,4 +1,4 @@
-🎓 Sobre mi
+🎓 
 Em dic Daniel Gallardo i sóc estudiant de segon any del Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes a l'Escola Pia Santa Anna de Mataró.
 Aquest repositori és el meu espai personal on comparteixo projectes, pràctiques i aprenentatges relacionats amb el món de la informàtica. Estic especialment interessat en:
 
