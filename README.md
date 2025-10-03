@@ -10,7 +10,7 @@ Aquest repositori és el meu espai personal on comparteixo projectes, pràctique
 
 El meu objectiu és aprendre, experimentar i construir una base sòlida per al meu futur professional en el sector tecnològic.
 
-📫 Contacte
+📫 
 Si vols contactar amb mi per col·laboracions, suggeriments o simplement compartir coneixement:
 
 ✉️ alu.daniel.gallardo@mataro.epiaedu.cat
