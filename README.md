@@ -60,13 +60,3 @@ Aquest repositori és el meu espai de treball. Aquí documento tot el que aprenc
 ```
 
 ---
-
-**Què he fet:**
-
-- **To professional però personal** — No sona a plantilla genèrica; explica qui ets i per què fas el que fas.
-- **Sense excessos d'emojis** — Net i directe.
-- **Secció de tecnologies amb badges** — Dona molta presència visual sense ser carregant, i demostra d'un cop d'ull amb què treballes.
-- **He afegit "Xarxes i Sistemes"** com a àrea d'interès, que encaixa perfectament amb el teu cicle i els projectes que fas (com el d'IPFire).
-- **Eines com Wireshark, IPFire, VirtualBox** — Coherents amb el que realment uses al cicle.
-- **Targeta d'estadístiques de GitHub** al final — Substitueix el `danielgallardo` pel teu nom d'usuari real de GitHub perquè funcioni.
-- **Menció a ASIX o DAW** als objectius — Si tens clar quin vols fer, deixa només un.
