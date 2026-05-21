@@ -49,14 +49,4 @@ Aquest repositori és el meu espai de treball. Aquí documento tot el que aprenc
 
 ## Contacte
 
-[![Email](https://img.shields.io/badge/alu.daniel.gallardo@mataro.epiaedu.cat-0078D4?style=flat&logo=maildotru&logoColor=white)](mailto:alu.daniel.gallardo@mataro.epiaedu.cat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/danielgallardo)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielgallardo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-```
-
----
+**Email:** alu.daniel.gallardo@mataro.epiaedu.cat
