@@ -40,7 +40,7 @@ Aquest repositori és el meu espai de treball. Aquí documento tot el que aprenc
 - Consolidar una base tècnica sòlida en administració de sistemes i desenvolupament web.
 - Aprofundir en seguretat informàtica i aplicar-la en entorns reals.
 - Documentar cada projecte de forma clara i professional, com a portfoli tècnic.
-- Continuar amb estudis superiors (CFGS en ASIX o DAW) o incorporar-me al sector amb garanties.
+- Continuar amb estudis superiors (CFGS en DAM o DAW) o incorporar-me al sector amb garanties.
 
 ---
 
